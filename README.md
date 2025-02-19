@@ -1,5 +1,6 @@
 # simpleQRcode6
 Console-based QR code generator.
+
 Implements a subset of the features of QR Code, or QR Code Model 2, as defined in ISO/IEC 18004:2015.
 
 Dependencies: None.
